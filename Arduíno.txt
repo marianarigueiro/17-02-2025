@@ -1,0 +1,76 @@
+ARDUINO
+
+O Arduino é uma placa de circuito eletrônico que funciona como uma "cérebro" para projetos de tecnologia e robótica. Ele é usado para controlar e interagir com diferentes dispositivos, como luzes, motores e sensores. 
+
+Pensa no Arduino como um controle remoto: você escreve um "programa" (instruções) e coloca na placa. O Arduino, então, executa essas instruções, fazendo com que os dispositivos conectados a ele se comportem de uma certa maneira, como acender uma lâmpada quando um sensor detecta movimento, ou ligar um motor quando você aperta um botão.
+
+Ele é simples de usar, e você pode programá-lo usando um computador, com uma linguagem fácil de aprender. Além disso, o Arduino é muito popular em projetos DIY (faça você mesmo) porque é acessível, tem uma comunidade grande e oferece diversas possibilidades de criação. 
+
+Ou seja, é uma plataforma que facilita a criação de dispositivos eletrônicos inteligentes, sem precisar ser um expert em eletrônica.
+
+
+
+A tensão elétrica é uma grandeza física que mensura a diferença de potencial elétrico.
+
+U = m R . I
+
+
+
+
+MULTÍMETRO 
+
+é o aparelho utilizado para medir corrente elétrica, tensão contínua, tensão alternada e resistencia eletrica;
+A grandeza a ser medida é escolhida utilizando a chava seletora localizada abaixo do páinel;
+A grande diferença do multímetro digital para o analógico é a obtenção direta do valor da grandeza a ser medida.
+
+
+
+
+CABO VERMELHO
+
+ligar no V para se medir a resistencia e tensao
+ligar no ma se medir corrente
+
+cabo preto
+ligar sempre no COM
+
+
+
+
+PROJETO ARDUINO
+
+o projeto arduino é de origem italiana em 2005. A ideia foi juntar em uma única placa um microcontrolador com comunicação serial 
+
+
+
+
+GRANDEZAS DIGITAIS E ANALÓGICAS
+
+Digital são medidas erm ondas quadradas
+
+As grandezas digitais são aquelas que podem ser definifas por meio de sqaltos entre vaores bem definidos dentrop de uma faixa de valores.
+
+
+Analógicas são medidas em ondas contínuas
+As grandezas analó0gicas são aquelas que, ao contrario da outra, podem assumir infinitos valores de amplitude dentro de uma faixa de valores.
+
+
+
+
+ARDUINO
+
+Um arduino é um microcontrolador de placas únicas e um conjunto de software para programálo. O hardware consister em um projeto simples de hardware livre para o controlador/sáda. O software consiste de uma linguagem de programação padrão e do bootloader que roda na placa.
+
+
+
+
+GRANDEZAS DIGITAIS 
+
+Os circuitos e equipamentos elétricos ditos digitais trabalham com apensa dois niveis de tensão definidos. No caso do Arduino UNO, estes são:
+
+Um nivel analógico alto, corresponden5te va 5V;
+Um nivel analógico baixo, correspondente a 0V.
+
+
+
+Os conversores analógico-digital do Arduino UNO possuem uma resolução de 10 bits e o intervalo de intervalo de tensão no qual são realizadas as discretizações 9degraus de escada) é de 0 a 5V, ou sewja, este intervalo será dividido em 1024 pedaços  ( 2 elevado a 10, onde 10 é a resolução do coversor)n , de forma que, o valor atribuído á tensão presente em um determinado pino será o val0or discreto ( um dos 1024 valores) mais próximos da mesmqa.
